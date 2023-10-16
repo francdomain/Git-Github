@@ -1,5 +1,5 @@
 # Define variables
-name = " FRANCIS CHUKWUOMA"
+name = "FRANCIS CHUKWUOMA"
 email = 'CFRANCMAIL@GMAIL.COM'
 
 # Print the name and email address
